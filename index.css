@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between; 
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    margin: 10px;
+}
+
+ul li{
+    margin: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+color: white;
+}
+.h1{
+    background-color: teal;
+    color: wheat;
+    text-align: center;
+}
+.index-section{
+    height: 60vh;
+}
+
+   a{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    margin: 10px;
+   } 
+#lth{
+    text-align: left;
+}
+.hickma{
+    display: flex;
+    flex-direction: column;
+    width: 500px ;
+    gap: 10px;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+}
+hr{
+    width: 150px;
+}
+#we-do{
+    display: flex;
+    justify-content: space-between;
+}
+.she{
+    background-color: palevioletred;
+    color: black;
+}
+.hikima{
+    text-align: left;
+}
+#us{
+    color: white;
+}
+#homeimages{
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+#we{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#foot{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    background-color: black;
+    
+   justify-content: baseline;
+}
+#cons{
+    color: white;
+}
+
+#cop{
+    text-align: center;
+}
+#subs{
+    color: white;
+}
