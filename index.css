@@ -100,3 +100,10 @@ hr{
 #subs{
     color: white;
 }
+.blog{
+    color: blue;
+}
+.blog-container{
+    display: flex;
+    justify-content: space-between;
+}
